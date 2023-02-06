@@ -1,5 +1,6 @@
-{ 
-  "1":
+{
+  "users":
+  [ 
     {
         "id": 1,
         "namn": "Maria Nilsson",
@@ -10,7 +11,6 @@
         "k_förebyggande_insats": 10000,
         "k_konsekvens": 20000
     },
-  "2":
     {
         "id": 2,
         "namn": "Ragnar Andersson",
@@ -21,7 +21,6 @@
         "k_förebyggande_insats": 5000,
         "k_konsekvens": 10000
     },
-    "3":
     {
         "id": 3,
         "namn": "Jenni Rivera",
@@ -33,4 +32,5 @@
         "k_konsekvens": 15000
       
     }
+]
 }
