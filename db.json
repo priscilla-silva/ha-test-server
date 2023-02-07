@@ -4,30 +4,30 @@
     {
         "id": 1,
         "namn": "Maria Nilsson",
-        "perssonnummer": "193003061234",
+        "perssonnummer": 193003061234,
         "symptom": "Äter inte",
         "förebyggande_insats": "Sällskap vid måltid",
-        "föredragen_av_brukaren": true,
+        "föredragen_av_brukaren": "Ja",
         "k_förebyggande_insats": 10000,
         "k_konsekvens": 20000
     },
     {
         "id": 2,
         "namn": "Ragnar Andersson",
-        "perssonnummer": "194201045678",
+        "perssonnummer": 194201045678,
         "symptom": "Ensam",
         "förebyggande_insats": "Träffa folk på förebyggande verksamhet",
-        "föredragen_av_brukaren": false,
+        "föredragen_av_brukaren": "Nej",
         "k_förebyggande_insats": 5000,
         "k_konsekvens": 10000
     },
     {
         "id": 3,
         "namn": "Jenni Rivera",
-        "perssonnummer": "193507028723",
+        "perssonnummer": 193507028723,
         "symptom": "Har det tråkigt",
         "förebyggande_insats": "Träna på Friskis och Svettis",
-        "föredragen_av_brukaren": true,
+        "föredragen_av_brukaren": "Ja",
         "k_förebyggande_insats": 7000,
         "k_konsekvens": 15000
       
