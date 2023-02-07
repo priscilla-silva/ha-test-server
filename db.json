@@ -1,8 +1,10 @@
 {
-  "users":
+  "reports":
   [ 
     {
         "id": 1,
+        "datum": "2023-01-01",
+        "rapporterad_av": "Rosa López",
         "namn": "Maria Nilsson",
         "personnummer": 193003061234,
         "symptom": "Äter inte",
@@ -13,6 +15,8 @@
     },
     {
         "id": 2,
+        "datum": "2023-01-02",
+        "rapporterad_av": "Mohammed Ali",
         "namn": "Ragnar Andersson",
         "personnummer": 194201045678,
         "symptom": "Ensam",
@@ -23,6 +27,8 @@
     },
     {
         "id": 3,
+        "datum": "2023-01-03",
+        "rapporterad_av": "Andrea Svensson",
         "namn": "Jenni Rivera",
         "personnummer": 193507028723,
         "symptom": "Har det tråkigt",
