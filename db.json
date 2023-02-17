@@ -3,7 +3,8 @@
   [ 
     {
         "id": 1,
-        "datum": "2023-01-01",
+        "datum": 20230104,
+        "tid": 824,
         "rapporterad_av": "Rosa López",
         "namn": "Maria Nilsson",
         "personnummer": 193003061234,
@@ -15,7 +16,8 @@
     },
     {
         "id": 2,
-        "datum": "2023-01-02",
+        "datum": 20230609,
+        "tid": 1032,
         "rapporterad_av": "Mohammed Ali",
         "namn": "Ragnar Andersson",
         "personnummer": 194201045678,
@@ -28,6 +30,7 @@
     {
         "id": 3,
         "datum": "2023-01-03",
+        "tid": 1530,
         "rapporterad_av": "Andrea Svensson",
         "namn": "Jenni Rivera",
         "personnummer": 193507028723,
@@ -36,6 +39,110 @@
         "föredragen_av_brukaren": "Ja",
         "k_förebyggande_insats": 8000,
         "k_konsekvens": 17000
+    },
+    {
+        "id": 4,
+        "datum": 20221219,
+        "tid": 955,
+        "rapporterad_av": "Mohammed Ali",
+        "namn": "Sandra Eklund",
+        "personnummer": 193507028723,
+        "symptom": "Äter inte",
+        "förebyggande_insats": "Måltidsservice",
+        "föredragen_av_brukaren": "Ja",
+        "k_förebyggande_insats": 6000,
+        "k_konsekvens": 15000
+    },
+    {
+        "id": 5,
+        "datum": 20221103,
+        "tid": 813,
+        "rapporterad_av": "Rosa López",
+        "namn": "Gregor Kursovic",
+        "personnummer": 193507028723,
+        "symptom": "Äter inte",
+        "förebyggande_insats": "Måltidsservice",
+        "föredragen_av_brukaren": "Ja",
+        "k_förebyggande_insats": 6000,
+        "k_konsekvens": 15000
+    },
+    {
+        "id": 6,
+        "datum": 20220905,
+        "tid": 1627,
+        "rapporterad_av": "Tomas Ohlsson",
+        "namn": "Anders Bäck",
+        "personnummer": 193507028723,
+        "symptom": "Äter inte",
+        "förebyggande_insats": "Måltidsservice",
+        "föredragen_av_brukaren": "Ja",
+        "k_förebyggande_insats": 6000,
+        "k_konsekvens": 15000
+    },
+    {
+        "id": 7,
+        "datum": 20230215,
+        "tid": 1205,
+        "rapporterad_av": "Tomas Ohlsson",
+        "namn": "Daniel Nilsson",
+        "personnummer": 193507028723,
+        "symptom": "Äter inte",
+        "förebyggande_insats": "Måltidsservice",
+        "föredragen_av_brukaren": "Ja",
+        "k_förebyggande_insats": 6000,
+        "k_konsekvens": 15000
+    },
+    {
+        "id": 8,
+        "datum": 20230108,
+        "tid": 1422,
+        "rapporterad_av": "Andrea Svensson",
+        "namn": "Gärt Ehlander",
+        "personnummer": 193507028723,
+        "symptom": "Äter inte",
+        "förebyggande_insats": "Måltidsservice",
+        "föredragen_av_brukaren": "Ja",
+        "k_förebyggande_insats": 6000,
+        "k_konsekvens": 15000
+    },
+    {
+        "id": 9,
+        "datum": 20221212,
+        "tid": 1330,
+        "rapporterad_av": "Rosa López",
+        "namn": "Georgiana Santos",
+        "personnummer": 193507028723,
+        "symptom": "Äter inte",
+        "förebyggande_insats": "Måltidsservice",
+        "föredragen_av_brukaren": "Ja",
+        "k_förebyggande_insats": 6000,
+        "k_konsekvens": 15000
+    },
+    {
+        "id": 10,
+        "datum": 20230101,
+        "tid": 1015,
+        "rapporterad_av": "Mohammed Ali",
+        "namn": "Tomas Svensson",
+        "personnummer": 193507028723,
+        "symptom": "Äter inte",
+        "förebyggande_insats": "Måltidsservice",
+        "föredragen_av_brukaren": "Ja",
+        "k_förebyggande_insats": 6000,
+        "k_konsekvens": 15000
+    },
+    {
+        "id": 11,
+        "datum": 20230201,
+        "tid": 930,
+        "rapporterad_av": "Rosa López",
+        "namn": "Beatrice Johansson",
+        "personnummer": 193507028723,
+        "symptom": "Äter inte",
+        "förebyggande_insats": "Måltidsservice",
+        "föredragen_av_brukaren": "Ja",
+        "k_förebyggande_insats": 6000,
+        "k_konsekvens": 15000
     }
 ]
 }
